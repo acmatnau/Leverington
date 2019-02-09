@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Import into Eclipse 2018-12 for Linux64 as follows. Pull requests augmenting these comments for other OS or version are invited.
+1. Clone this repo, or copy/paste into a new .xml document.
+2. In Eclipse, navigate to Window>Preferences>Java>Code Style>Formatter
+3. Click the Import button, and follow prompts to load this document.
+
+Note: In addition to this, you will need to set Window>Preferences>General>Editors>Text Editors to Insert Spaces for tabs 
+AND will probably want to Show print margin
+-->
 <profiles version="15">
     <profile kind="CodeFormatterProfile" name="Leverington" version="15">
         <setting id="org.eclipse.jdt.core.formatter.insert_space_after_ellipsis" value="insert"/>
